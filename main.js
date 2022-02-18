@@ -1,3 +1,4 @@
+// Function to add numbers
 const add = (firstNumber, secondNumber) => {
     const sum = firstNumber + secondNumber
 
@@ -7,10 +8,11 @@ const add = (firstNumber, secondNumber) => {
 const newNumber = add(4,14)
 console.log(newNumber)
 
-
-const Birthdays = ["1/14/1988", "02/12/1992"];
+// Function for birthdays
+const Birthdays = ["1/14/1988", "02/12/1992"]; 
 console.log(Birthdays)
 
+// Function to add namess
 const names = (name1, name2) => {
     
 console.log(name1)
